@@ -25,53 +25,53 @@ This is a **mobile-first inventory management application** built using **Micros
 ## 🖼️ Screenshots
 
 ### 1️⃣ Login Page
-![Login](1.png)
+![Login](1.jpg)
 
 *Login using registered email and password.*
 
 ---
 ### 2️⃣ Home
-![Dashboard](2.png)
+![Dashboard](2.jpg)
 
 *Home Page.*
 
 ### 2️⃣ Dashboard Overview
-![Dashboard](3.png)
+![Dashboard](3.jpg)
 
 *Dashboard with bar and price charts showing inventory metrics.*
 
 ---
 
 ### 3️⃣ All Inventory Items
-![All Items](4.png)
+![All Items](4.jpg)
 
 *Complete list of inventory data in a scrollable layout.*
 
 ---
 
 ### 4️⃣ Add Inventory Item
-![Add Item](5.png)
+![Add Item](5.jpg)
 
 *Form to add new inventory items with all required fields.*
 
 ---
 
 ### 5️⃣ Edit Inventory Item
-![Edit Item](6.png)
+![Edit Item](6.jpg)
 
 *Update existing inventory records with a clean interface.*
 
 ---
 
 ### 7️⃣ Wrong Password
-![Wrong Password](8.png)
+![Wrong Password](8.jpg)
 
 *Wrong Password, Login with correct password.*
 
 ---
 
 ### 8️⃣ Contact Vendor Page
-![Contact](7.png)
+![Contact](7.jpg)
 
 *Send emails directly to vendors with built-in PowerApps email connector.*
 
